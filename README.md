@@ -1,2 +1,2 @@
 # learningalgorithms
-Algorithms I wrote in programming classes
+Hello World! My name is Ana Carla and I am going to document here my journey into programming.
